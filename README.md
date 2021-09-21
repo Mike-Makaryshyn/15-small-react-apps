@@ -8,18 +8,18 @@ Write in console npm install in each folder to download all dependencies from th
 
 List of Projects:
 
-Birthday Reminder
-Tours
-Reviews
-Questions
-Menu
-Tabs
-Slider
-Lorem Ipsum Generator
-Color Shades Generator
-rocery Bud
-Navbar
-Modal And Sidebar
-Stripe Submenus
-Cart
-Cocktails
+1. Birthday Reminder
+2. Tours
+3. Reviews
+4. Questions
+5. Menu
+6. Tabs
+7. Slider
+8. Lorem Ipsum Generator
+9. Color Shades Generator
+10. rocery Bud
+11. Navbar
+12. Modal And Sidebar
+13. Stripe Submenus
+14. Cart
+15. Cocktails
