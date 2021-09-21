@@ -9,7 +9,7 @@
 9. Color Shades Generator 
 10. rocery Bud 
 11. Navbar 
-12 Modal And Sidebar 
-13 Stripe Submenus 
-14 Cart 
-15 Cocktails
+12. Modal And Sidebar 
+13. Stripe Submenus 
+14. Cart 
+15. Cocktails
