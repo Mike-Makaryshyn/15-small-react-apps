@@ -7,8 +7,8 @@ Write in console npm install in each folder to download all dependencies from th
 
 List of Projects:
 
-1. Birthday Reminder ( https://birthdays-reminder.surge.sh/ ) 
-2. Tours ( https://tours-list.surge.sh/ )
+1. Birthday Reminder - https://birthdays-reminder.surge.sh/
+2. Tours - https://tours-list.surge.sh/
 3. Reviews
 4. Questions
 5. Menu
