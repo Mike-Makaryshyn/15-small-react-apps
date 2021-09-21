@@ -1,6 +1,6 @@
 General:
   
-  write in console npm install in each folder to download all dependencies from the current project and npm start to start server in your browser. 
+  Write in console npm install in each folder to download all dependencies from the current project and npm start to start server in your browser. 
 
 List of Projects: 
 1. Birthday Reminder
