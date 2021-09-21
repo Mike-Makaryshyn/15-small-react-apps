@@ -9,16 +9,16 @@ List of Projects:
 
 1. Birthday Reminder - https://birthdays-reminder.surge.sh/
 2. Tours - https://tours-list.surge.sh/
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Slider
-8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. rocery Bud
-11. Navbar
-12. Modal And Sidebar
-13. Stripe Submenus
-14. Cart
-15. Cocktails
+3. Reviews - the project is not finished yet
+4. Questions - the project is not finished yet
+5. Menu - the project is not finished yet
+6. Tabs - the project is not finished yet
+7. Slider - the project is not finished yet
+8. Lorem Ipsum Generator - the project is not finished yet
+9. Color Shades Generator - the project is not finished yet
+10. rocery Bud - the project is not finished yet
+11. Navbar - the project is not finished yet
+12. Modal And Sidebar - the project is not finished yet
+13. Stripe Submenus - the project is not finished yet
+14. Cart - the project is not finished yet
+15. Cocktails - the project is not finished yet
