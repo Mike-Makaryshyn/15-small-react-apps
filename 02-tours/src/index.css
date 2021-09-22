@@ -169,10 +169,14 @@ main {
 }
 .loading {
    display: inline-block;
-   position: relative;
+   position: absolute;
    width: 80px;
    height: 80px;
-   transform: translate(250px, 250px);
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   margin: auto;
 }
 .loading div {
    position: absolute;
