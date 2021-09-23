@@ -13,7 +13,7 @@ List of Projects:
 4. Questions - https://accordion-q-n-a.surge.sh/
 5. Menu of dishes - https://meal-categories.surge.sh/
 6. Tabs - https://tabs-job-viewer.surge.sh/
-7. Slider - the project is not finished yet
+7. Slider - https://my-slider.surge.sh/
 8. Lorem Ipsum Generator - the project is not finished yet
 9. Color Shades Generator - the project is not finished yet
 10.   Grocery Bud - the project is not finished yet
