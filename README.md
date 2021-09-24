@@ -18,7 +18,7 @@ List of Projects:
 9. Color Shades Generator - https://colors-generator.surge.sh/
 10.   Grocery Bud - https://grocery-list-manager.surge.sh/
 11.   Navbar - https://burger-menu-navbar.surge.sh/
-12.   Modal And Sidebar - the project is not finished yet
+12.   Modal And Sidebar(useContext) - https://modal-sidebar.surge.sh/
 13.   Stripe Submenus - the project is not finished yet
 14.   Cart - the project is not finished yet
 15.   Cocktails - the project is not finished yet
