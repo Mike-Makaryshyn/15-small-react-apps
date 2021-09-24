@@ -16,7 +16,7 @@ List of Projects:
 7. Slider - https://my-slider.surge.sh/
 8. Lorem Ipsum Generator - https://lorem-ipsum-generator.surge.sh/
 9. Color Shades Generator - https://colors-generator.surge.sh/
-10.   Grocery Bud - the project is not finished yet
+10.   Grocery Bud - https://grocery-list-manager.surge.sh/
 11.   Navbar - the project is not finished yet
 12.   Modal And Sidebar - the project is not finished yet
 13.   Stripe Submenus - the project is not finished yet
