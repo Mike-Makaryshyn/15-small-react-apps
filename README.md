@@ -5,7 +5,7 @@ practicing react with freeCodeCamp.org
 General:
 Write in console npm install in each folder to download all dependencies from the current project and npm start to start server in your browser.
 
-List of Projects:
+List of Projects(sorted by complexity - from easiest to most complicated one):
 
 1. Birthday Reminder - https://birthdays-reminder.surge.sh/
 2. Tours - https://tours-list.surge.sh/
