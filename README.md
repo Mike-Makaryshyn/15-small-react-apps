@@ -21,4 +21,4 @@ List of Projects(sorted by complexity - from easiest to most complicated one):
 12.   Modal And Sidebar(useContext) - https://modal-sidebar.surge.sh/
 13.   Stripe Submenus, modal-burgermenu - https://stripe-menu.surge.sh/
 14.   Cart (useReducer)- https://cart-manager.surge.sh/
-15.   Cocktails - the project is not finished yet
+15.   Cocktails - https://cocktails-router.surge.sh/

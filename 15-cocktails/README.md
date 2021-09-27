@@ -6,6 +6,6 @@
 
 ```
 
-"build": "react-scripts build",
+"build": "CI= react-scripts build",
 
 ```
